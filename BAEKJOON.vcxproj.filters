@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\silver 5">
+      <UniqueIdentifier>{ad458803-655b-4b2f-b4cb-e5b98e63c9d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\bronze 1">
+      <UniqueIdentifier>{cc2f5cc1-3313-4100-892c-0de0a2b63f08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\1D array">
+      <UniqueIdentifier>{e8ab8b3d-cea2-4e8c-95a4-7f4d8801ce4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\bronze">
+      <UniqueIdentifier>{19b6f3b7-ac17-47f4-8d3b-fea9eddd295f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BAEKJOON.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="10818.h">
+      <Filter>헤더 파일\1D array</Filter>
+    </ClInclude>
+    <ClInclude Include="2562.h">
+      <Filter>헤더 파일\1D array</Filter>
+    </ClInclude>
+    <ClInclude Include="2577.h">
+      <Filter>헤더 파일\1D array</Filter>
+    </ClInclude>
+    <ClInclude Include="3052.h">
+      <Filter>헤더 파일\1D array</Filter>
+    </ClInclude>
+    <ClInclude Include="1546.h">
+      <Filter>헤더 파일\1D array</Filter>
+    </ClInclude>
+    <ClInclude Include="8958.h">
+      <Filter>헤더 파일\1D array</Filter>
+    </ClInclude>
+    <ClInclude Include="2675.h">
+      <Filter>헤더 파일\1D array</Filter>
+    </ClInclude>
+    <ClInclude Include="1094.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="1934.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="2609.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="4344.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="2839.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="2750.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="1157.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="10817.h">
+      <Filter>헤더 파일\bronze</Filter>
+    </ClInclude>
+    <ClInclude Include="14681.h">
+      <Filter>헤더 파일\bronze</Filter>
+    </ClInclude>
+    <ClInclude Include="2739.h">
+      <Filter>헤더 파일\bronze</Filter>
+    </ClInclude>
+    <ClInclude Include="4673.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="pointer1.h">
+      <Filter>헤더 파일\bronze</Filter>
+    </ClInclude>
+    <ClInclude Include="1924.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="11719.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="2869.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="11050.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="2822.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="1436.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="1427.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="2751.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="1193.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="2775.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
