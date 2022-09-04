@@ -119,5 +119,14 @@
     <ClInclude Include="2775.h">
       <Filter>헤더 파일\bronze 1</Filter>
     </ClInclude>
+    <ClInclude Include="10989.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="11653.h">
+      <Filter>헤더 파일\bronze 1</Filter>
+    </ClInclude>
+    <ClInclude Include="2702.h">
+      <Filter>헤더 파일\bronze</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

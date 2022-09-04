@@ -1,6 +1,8 @@
 ﻿//1D array
 
 #include <iostream>
+#include <time.h>
+
 #include"10818.h"
 #include"2562.h"
 #include"2577.h"
@@ -29,10 +31,18 @@
 #include "2751.h"
 #include "1193.h"
 #include "2775.h"
-
-
+#include "10989.h"
+#include "11653.h"
+#include "2702.h"
+#include <ctime>
 
 int main()
 {
-	run2775();
+	double start, end;
+	start = (double)clock() / CLOCKS_PER_SEC;
+
+	run2702();
+
+	end = (((double)clock()) / CLOCKS_PER_SEC);
+	printf("\n프로그램 수행 시간 :%lf\n", (end - start));
 }
