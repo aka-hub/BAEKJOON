@@ -155,6 +155,7 @@
     <ClInclude Include="1924.h" />
     <ClInclude Include="1934.h" />
     <ClInclude Include="1193.h" />
+    <ClInclude Include="2309.h" />
     <ClInclude Include="2562.h" />
     <ClInclude Include="2577.h" />
     <ClInclude Include="2609.h" />

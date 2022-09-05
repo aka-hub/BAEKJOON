@@ -35,13 +35,14 @@
 #include "11653.h"
 #include "2702.h"
 #include <ctime>
+#include "2309.h"
 
 int main()
 {
 	double start, end;
 	start = (double)clock() / CLOCKS_PER_SEC;
 
-	run2702();
+	run2309();
 
 	end = (((double)clock()) / CLOCKS_PER_SEC);
 	printf("\n프로그램 수행 시간 :%lf\n", (end - start));
