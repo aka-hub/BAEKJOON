@@ -131,5 +131,8 @@
     <ClInclude Include="2309.h">
       <Filter>헤더 파일\bronze 1</Filter>
     </ClInclude>
+    <ClInclude Include="1978.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
