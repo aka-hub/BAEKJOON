@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <time.h>
+#include <string>
 
 #include"10818.h"
 #include"2562.h"
@@ -37,14 +38,20 @@
 #include <ctime>
 #include "2309.h"
 #include "1978.h"
+#include "1316.h"
+#include "2941.h"
+#include <cstdlib>
+
+
+using namespace std;
 
 int main()
 {
 	double start, end;
 	start = (double)clock() / CLOCKS_PER_SEC;
-
-	run1978();
+	
+	run2751();
 
 	end = (((double)clock()) / CLOCKS_PER_SEC);
-	printf("\n프로그램 수행 시간 :%lf\n", (end - start));
+	printf("\nRUNTIME:%lf\n", (end - start));
 }
