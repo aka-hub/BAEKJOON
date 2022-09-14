@@ -142,6 +142,7 @@
     <ClCompile Include="BAEKJOON.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1065.h" />
     <ClInclude Include="10818.h" />
     <ClInclude Include="1094.h" />
     <ClInclude Include="10989.h" />

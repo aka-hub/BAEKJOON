@@ -25,6 +25,9 @@
     <Filter Include="헤더 파일\bronze">
       <UniqueIdentifier>{19b6f3b7-ac17-47f4-8d3b-fea9eddd295f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="헤더 파일\silver 4">
+      <UniqueIdentifier>{891ff27c-4bc6-470d-897f-4ddcccb268ee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BAEKJOON.cpp">
@@ -139,6 +142,9 @@
     </ClInclude>
     <ClInclude Include="2941.h">
       <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="1065.h">
+      <Filter>헤더 파일\silver 4</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -41,6 +41,7 @@
 #include "1316.h"
 #include "2941.h"
 #include <cstdlib>
+#include "1065.h"
 
 
 using namespace std;
@@ -50,7 +51,7 @@ int main()
 	double start, end;
 	start = (double)clock() / CLOCKS_PER_SEC;
 	
-	run2751();
+	run1065();
 
 	end = (((double)clock()) / CLOCKS_PER_SEC);
 	printf("\nRUNTIME:%lf\n", (end - start));
