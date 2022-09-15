@@ -178,6 +178,7 @@
     <ClInclude Include="4673.h" />
     <ClInclude Include="8958.h" />
     <ClInclude Include="10817.h" />
+    <ClInclude Include="9012.h" />
     <ClInclude Include="pointer1.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
