@@ -142,11 +142,14 @@
     <ClCompile Include="BAEKJOON.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1018.h" />
     <ClInclude Include="1065.h" />
     <ClInclude Include="10818.h" />
     <ClInclude Include="10828.h" />
+    <ClInclude Include="10845.h" />
     <ClInclude Include="1094.h" />
     <ClInclude Include="10989.h" />
+    <ClInclude Include="11047.h" />
     <ClInclude Include="11050.h" />
     <ClInclude Include="11399.h" />
     <ClInclude Include="11653.h" />
@@ -156,6 +159,7 @@
     <ClInclude Include="1436.h" />
     <ClInclude Include="14681.h" />
     <ClInclude Include="1546.h" />
+    <ClInclude Include="1920.h" />
     <ClInclude Include="1924.h" />
     <ClInclude Include="1934.h" />
     <ClInclude Include="1193.h" />
@@ -178,6 +182,7 @@
     <ClInclude Include="3052.h" />
     <ClInclude Include="4344.h" />
     <ClInclude Include="4673.h" />
+    <ClInclude Include="7568.h" />
     <ClInclude Include="8958.h" />
     <ClInclude Include="10817.h" />
     <ClInclude Include="9012.h" />

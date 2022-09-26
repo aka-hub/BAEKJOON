@@ -45,6 +45,10 @@
 #include "9012.h"
 #include "10828.h"
 #include "11399.h"
+#include "11047.h"
+#include "1920.h"
+#include "10845.h"
+#include "7568.h"
 
 using namespace std;
 
@@ -53,7 +57,7 @@ int main()
 	double start, end;
 	start = (double)clock() / CLOCKS_PER_SEC;
 	
-	run11399();
+	run7568();
 
 	end = (((double)clock()) / CLOCKS_PER_SEC);
 	printf("\nRUNTIME:%lf\n", (end - start));
