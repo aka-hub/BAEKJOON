@@ -49,6 +49,7 @@
 #include "1920.h"
 #include "10845.h"
 #include "7568.h"
+#include "1181.h"
 
 using namespace std;
 
@@ -57,7 +58,7 @@ int main()
 	double start, end;
 	start = (double)clock() / CLOCKS_PER_SEC;
 	
-	run7568();
+	run1181();
 
 	end = (((double)clock()) / CLOCKS_PER_SEC);
 	printf("\nRUNTIME:%lf\n", (end - start));
