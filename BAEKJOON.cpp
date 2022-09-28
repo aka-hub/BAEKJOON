@@ -50,6 +50,7 @@
 #include "10845.h"
 #include "7568.h"
 #include "1181.h"
+#include "2581.h"
 
 using namespace std;
 
@@ -58,7 +59,7 @@ int main()
 	double start, end;
 	start = (double)clock() / CLOCKS_PER_SEC;
 	
-	run1181();
+	run2581();
 
 	end = (((double)clock()) / CLOCKS_PER_SEC);
 	printf("\nRUNTIME:%lf\n", (end - start));
