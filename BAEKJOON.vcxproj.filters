@@ -176,5 +176,11 @@
     <ClInclude Include="2581.h">
       <Filter>헤더 파일\silver 5</Filter>
     </ClInclude>
+    <ClInclude Include="11650.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
+    <ClInclude Include="10814.h">
+      <Filter>헤더 파일\silver 5</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

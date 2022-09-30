@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="1018.h" />
     <ClInclude Include="1065.h" />
+    <ClInclude Include="10814.h" />
     <ClInclude Include="10818.h" />
     <ClInclude Include="10828.h" />
     <ClInclude Include="10845.h" />
@@ -152,6 +153,7 @@
     <ClInclude Include="11047.h" />
     <ClInclude Include="11050.h" />
     <ClInclude Include="11399.h" />
+    <ClInclude Include="11650.h" />
     <ClInclude Include="11653.h" />
     <ClInclude Include="11719.h" />
     <ClInclude Include="1181.h" />
