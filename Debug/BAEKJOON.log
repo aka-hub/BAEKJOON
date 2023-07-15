@@ -14,6 +14,55 @@ C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1316.h(19,21): warning C4018: '<':
 C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\2941.h(38,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9012.h(18,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
 C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\10814.h(7,9): warning C4068: 알 수 없는 pragma 'warnings'
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1475.h(26,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1475.h(31,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1439.h(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\2740.h(12,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\4949.h(23,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\10610.h(22,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\10610.h(36,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\10825.h(34,12): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\10825.h(34,6): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\10825.h(34,9): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\11656.h(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\4948.h(25,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\17626.h(55,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9375.h(35,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1449.h(25,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1449.h(27,14): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\2477.h(20,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9996.h(21,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1011.h(25,12): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1011.h(31,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\14502.h(78,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\14502.h(88,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1759.h(31,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1759.h(38,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1107.h(117,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1107.h(125,15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\2448.h(30,6): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9935.h(22,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9935.h(26,17): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9663.h(18,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9251.h(22,20): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\9251.h(23,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1913.h(18,10): warning C4101: 'mm' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1913.h(18,14): warning C4101: 'yyyy' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1913.h(18,6): warning C4101: 'dd' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1753.h(44,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\15686.h(34,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\15686.h(45,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\15686.h(47,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\15686.h(53,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\2206.h(80,6): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1916.h(49,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1016.h(21,14): warning C4244: '초기화 중': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1016.h(37,28): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1016.h(38,25): warning C4244: '인수': '__int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1016.h(24,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1167.h(27,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1182.h(28,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
 C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1157.h(53): warning C4715: 'run1157': 모든 제어 경로에서 값을 반환하지는 않습니다.
 C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1065.h(33): warning C4715: 'run1065': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ruina\source\repos\BAEKJOON\BAEKJOON\1783.h(37): warning C4715: 'run1783': 모든 제어 경로에서 값을 반환하지는 않습니다.
   BAEKJOON.vcxproj -> C:\Users\ruina\source\repos\BAEKJOON\Debug\BAEKJOON.exe

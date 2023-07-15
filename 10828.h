@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string.h>
 
-struct stack {
+struct stack1 {
 	int arr[10000] = { 0, };
 	int last = 0;
 
@@ -43,7 +43,7 @@ void run10828() {
 	//push pop 구현
 	//문제에 나와있지 않은 명령이 주어지는 경우는 없다.
 	//push X - pop - size - empty - top
-	struct stack s;
+	struct stack1 s;
 
 	char str[6];
 

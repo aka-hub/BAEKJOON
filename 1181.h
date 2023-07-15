@@ -4,7 +4,7 @@
 #include <algorithm>
 
 using namespace std;
-bool compare(string a, string b) {
+bool compare1181(string a, string b) {
 	if (a.length() < b.length()) {
 		return true;
 	}
@@ -34,7 +34,7 @@ void run1181() {
 	}
 	
 
-	sort(word, word + N, compare);
+	sort(word, word + N, compare1181);
 
 	for (int i = 0; i < N; i++) {
 		cout << word[i] << "\n";

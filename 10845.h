@@ -15,7 +15,10 @@ struct Que {
 			printf("-1\n");
 			return;
 		}
-		printf("%d\n", arr[last - 1]);
+		printf("%d\n", arr[0]);
+		for (int i = 0; i < last; i++) {
+			arr[i] = arr[i + 1];
+		}
 		last--;
 
 	}
