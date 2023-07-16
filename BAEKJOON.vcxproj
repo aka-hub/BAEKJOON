@@ -285,6 +285,7 @@
     <ClInclude Include="4673.h" />
     <ClInclude Include="4948.h" />
     <ClInclude Include="4949.h" />
+    <ClInclude Include="5430.h" />
     <ClInclude Include="7568.h" />
     <ClInclude Include="7576.h" />
     <ClInclude Include="7785.h" />

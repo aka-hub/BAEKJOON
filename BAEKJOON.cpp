@@ -152,6 +152,7 @@
 #include "14891.h"
 #include "1182.h"
 #include "1260.h"
+#include "5430.h"
 
 using namespace std;
 
@@ -159,7 +160,7 @@ int main(){
 	double start, end;
 	start = (double)clock() / CLOCKS_PER_SEC;
 
-	run1260();
+	run5430();
 
 	end = (((double)clock()) / CLOCKS_PER_SEC);
 	printf("\nRUNTIME:%lf\n", (end - start));
